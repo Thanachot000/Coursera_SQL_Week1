@@ -2,3 +2,4 @@ SELECT *
 FROM Employees
 WHERE FirstName = 'Robert' and
       LastName = 'King' ;
+ 
