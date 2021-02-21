@@ -1,0 +1,4 @@
+select *
+from Employees
+WHERE FirstName = 'Robert' and
+      LastName = 'King' ;
