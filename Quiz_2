@@ -1,0 +1,9 @@
+SELECT 
+     FirstName,
+     LastName,
+     Birthdate, 
+     Address, 
+     City,
+     State 
+FROM Employees
+WHERE Birthdate LIKE '1965-03-03%'
